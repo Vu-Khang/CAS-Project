@@ -1,0 +1,54 @@
+#header{
+    background-color: #00B177;
+}
+#keepLearning{
+    font-size: 50px;
+}
+.courseSelect{
+    border-radius: 10%;
+    border-style: outset;
+    border-width: 50%;
+
+    width: 17vw;
+    height: 50vh;
+
+    color:white;
+
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#mathSelect{
+    background-color: #51c4e4;
+    border-color:#51c4e4
+}
+#mathSelect:hover{
+    background-color: #4a93c0;
+    border-color:#51c4e4
+}
+
+#physicsSelect{
+    background-color: #A349A4;
+    border-color:#A349A4
+}
+#physicsSelect:hover{
+    background-color: #774486;
+    border-color:#A349A4
+}
+
+#CSSelect{
+    background-color: #00B177;
+    border-color:#00B177
+}
+#CSSelect:hover{
+    background-color: #078884;
+    border-color:#00B177
+}
+
+.continueButton{
+    width: 90vw;
+    height: 10vh;
+    background-color: aqua;
+    font-size: 100px;
+}
